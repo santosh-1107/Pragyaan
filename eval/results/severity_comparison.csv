@@ -1,0 +1,5 @@
+model,accuracy,macro_f1,train_s,infer_ms
+LogReg (TF-IDF),0.4597,0.4542,0.46,0.001
+RandomForest (TF-IDF),0.557,0.5459,2.14,0.066
+MLP (TF-IDF),0.5545,0.5349,21.43,0.005
+MiniLM+LogReg,0.4329,0.4267,497.03,0.001

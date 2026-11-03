@@ -1,0 +1,41 @@
+question,expected,got,confidence,ok
+"Improving Security Protocols for Hospital Systems. Customer Support, requesting improvements to security protocols to better protect medical data across hospital systems and their",resolved,resolved,0.9085,True
+Enhancing Investment Tactics Through Data Analytics Solutions. Seeking advice on how to optimize investment tactics using the data analytics products available. Appreciate your,resolved,resolved,0.9778,True
+Strategies for Brand Growth. What digital strategies are suggested for brand growth?,resolved,resolved,1.0,True
+Problem with Account Access. I am unable to access my account's billing and payments. This might have happened due to a system error or a missed payment. I have already tried,resolved,resolved,0.9583,True
+"Investment Optimization Services Inquiry Today. Dear Customer Support, I am contacting you to ask about the data analytics tools you provide for investment optimization services.",resolved,resolved,0.8823,True
+Reduced Efficiency. experienced reduced efficiency in using the project management software as a result of heightened user activity and limited resources.,resolved,resolved,1.0,True
+"Assistance with Service Interruption. Our service encountered an unexpected outage impacting various systems, including Magento MySQL. The outage might be due to a recent server",resolved,resolved,0.9702,True
+"Support Needed for Updated Digital Marketing Tools. Hello Customer Support, I need an update on the request to upgrade our digital marketing tools. Our current tools are outdated",resolved,resolved,0.933,True
+Problem with Software Crashes in Steinberg Cubase 11 and Adobe Premiere Pro 2021. Facing software crashes with Steinberg Cubase 11 and Adobe Premiere Pro 2021 during project,resolved,resolved,0.8975,True
+"Project Timeline Synchronization Problem. Hi Customer Support,\n\nI hope this message finds you well. I am currently facing a challenge with project timeline synchronization",resolved,resolved,0.8453,True
+"Problem with System Performance. Noted the system lag which has impacted the performance of digital marketing tools, leading to delays in campaign execution. This may be due to",resolved,resolved,0.9172,True
+"Digital Marketing Support. Hello Customer Support Team, I am contacting you to report a problem with our digital marketing campaigns. The campaigns have been unable to reach our",resolved,resolved,0.806,True
+"Assistance with Integration Tools. Customer Support, we are reaching out to seek guidance on integrating third-party tools with a project management SaaS solution. We would",resolved,resolved,0.9455,True
+Options for IBM Software Pricing. Could you provide information on the pricing plans for IBM software?,resolved,resolved,1.0,True
+Problem with Data Analytics Integration Tools. Facing difficulties with integrating data analytics tools into existing software. This might be due to recent updates causing,resolved,resolved,0.9426,True
+Enquiry on Data Analytics Tools for Investment Optimization. I hope this message finds you well. I am reaching out to seek information on the data analytics tools you offer for,resolved,resolved,0.9601,True
+Expansion of Digital Branding Efforts. Is it possible to provide more information on your digital strategy services?,resolved,resolved,1.0,True
+Enquiry on Integration Options for SAP ERP and Git. I am writing to inquire about the integration possibilities for project management between SAP ERP and Git. Our organization,resolved,resolved,0.9158,True
+"Support Inquiry for Security Measures. Hello Customer Support, I am inquiring about the security measures in place for storing medical data within a hospital environment using",resolved,resolved,0.8886,True
+"Investment Modeling Results Are Inaccurate. Detailed issue summary: The investment modeling results are incorrect, leading to unreliable forecasts. This might be due to data",resolved,resolved,0.9106,True
+URGENT: nightly_gl_sync_v3 poisoned the air-gapped HSM vault and SOC2 pipeline is offline,escalated,escalated,0.4903,True
+How do we rotate PCI HSM keys for the vault this weekend with zero downtime?,escalated,escalated,0.3043,True
+The on-call runbook for multi-region failover is blank in Confluence page GL-404,escalated,escalated,0.4217,True
+Who owns undocumented ETL job nightly_gl_sync_v3 and how do we pause it?,escalated,escalated,0.389,True
+Emergency feature flag needed to disable recommender_v9 in checkout-canary,escalated,escalated,0.258,True
+Feature store group churn_v2 has no owners and blocking model deploy,escalated,escalated,0.341,True
+Air-gapped lab DNS is down; how do we rebuild offline synonym dictionary?,escalated,escalated,0.3598,True
+Redis sentinel quorum failed in prod-eu; what is the manual recovery procedure?,escalated,escalated,0.5069,True
+How do we re-enqueue poison messages from topic billing.dlq.v3?,escalated,escalated,0.4142,True
+Checkout-v4 canary stuck at 1% with no dashboard — who owns the cutover checklist?,escalated,escalated,0.414,True
+Who approved temporary firewall hole to partner IP 10.66.12.9 last night?,escalated,escalated,0.5386,True
+Custom internal Claude plugin broke after Friday deploy of authz-sidecar,escalated,escalated,0.3377,True
+Need process to request SOC2 evidence pack for vendor AcmeLedger,escalated,escalated,0.3967,True
+How to provision staging sandbox with synthetic PII without hitting prod DLP?,escalated,escalated,0.2909,True
+Kubernetes control plane unreachable in cluster ops-blue — escalate immediately,escalated,resolved,0.5696,False
+All CI pipelines failing after undocumented secret rotation of GITHUB_PAT_BOT,escalated,escalated,0.4099,True
+Blue-green cutover checklist for billing monolith is empty — production tonight,escalated,escalated,0.4685,True
+Leaked personal access token never logged; how do we revoke across all orgs?,escalated,escalated,0.4817,True
+Primary payment gateway returning 500s only on PCI subnet — not in KB,escalated,escalated,0.4894,True
+Flink job zx_ledger_replay_v2 writing corrupt Avro to lakehouse bronze,escalated,escalated,0.4105,True
