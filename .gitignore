@@ -20,21 +20,10 @@ htmlcov/
 # Streamlit
 .streamlit/
 
-# Datasets and Large Binary Stores
+# Datasets
 data/raw/*.csv
 data/processed/*.parquet
-data/chroma/*
-!data/chroma/.gitkeep
 data/copilot.db
-*.sqlite3
-
-# Trained Model Binaries (regenerate via scripts/train_*.py)
-models/*.joblib
-!models/.gitkeep
-
-# Keep directory skeletons
-!data/raw/.gitkeep
-!data/processed/.gitkeep
 
 # OS specific
 .DS_Store
